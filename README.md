@@ -1,5 +1,5 @@
 # prog
-index.html létrehozása
+git parancsok
 
 # Főcím
 Bootstrap + főcím
